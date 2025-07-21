@@ -19,12 +19,6 @@ Organize your tasks and notes in one place. Easily add, edit, complete, and dele
 
 ---
 
-## Demo
-
-![Screenshot](screenshot.png) <!-- Add a screenshot if available -->
-
----
-
 ## Getting Started
 
 ### Prerequisites
